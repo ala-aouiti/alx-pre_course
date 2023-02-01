@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 git fetch --all
+=======
+<<<<<<< HEAD
+git pull
+=======
+git fetch --all
+>>>>>>> update_script
+>>>>>>> master
